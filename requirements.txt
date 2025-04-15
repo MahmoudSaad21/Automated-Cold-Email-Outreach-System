@@ -1,0 +1,43 @@
+# Core Python Libraries
+pandas>=1.5.3
+numpy>=1.24.3
+
+# AI & NLP
+transformers>=4.36.0
+torch>=2.0.0
+sentence-transformers>=2.2.2
+bitsandbytes>=0.41.0
+accelerate>=0.23.0
+
+# Email Handling
+imaplib2>=2.47.0
+email-validator>=2.0.0
+
+# PDF Processing
+PyPDF2>=3.0.0
+
+# Database
+sqlite3>=3.45.0
+
+# Vector Search
+faiss-cpu>=1.7.4
+# Use faiss-gpu instead if you have CUDA support
+
+# Process Management
+psutil>=5.9.5
+
+# UI (for Streamlit dashboard)
+streamlit>=1.28.0
+plotly>=5.18.0
+matplotlib>=3.7.1
+
+# Utilities
+regex>=2023.6.3
+tqdm>=4.65.0
+python-dotenv>=1.0.0
+
+# HuggingFace Hub
+huggingface-hub>=0.17.3
+
+# Email MIME handling
+mime>=0.1.0
