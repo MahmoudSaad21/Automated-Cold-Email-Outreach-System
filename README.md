@@ -59,8 +59,8 @@ https://github.com/user-attachments/assets/e0cb8708-2e2b-4667-a02f-58747804f58f
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/yourusername/cold-email-automation.git
-   cd cold-email-automation
+   git clone https://github.com/MahmoudSaad21/Automated-Cold-Email-Outreach-System.git
+   cd Automated-Cold-Email-Outreach-System
    ```
 
 2. Install required packages
